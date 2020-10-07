@@ -152,7 +152,7 @@
 
 	body {
 		background: #fff;
-		overflow: hidden;
+		overflow: auto;
 	}
 
 		body.loading * {
