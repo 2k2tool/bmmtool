@@ -152,7 +152,7 @@
 
 	body {
 		background: #fff;
-		overflow: auto;
+		overflow: scroll;
 	}
 
 		body.loading * {
